@@ -1,0 +1,16 @@
+@RentApi_HostAddress = http://localhost:5148
+
+GET {{RentApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+
+
+//  https://localhost:5148/swagger/index.html
+//
+//{
+//  "userName": "fer@gmail.com",
+//  "password": "Pasword@00"
+//}
+
